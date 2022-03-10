@@ -1,2 +1,2 @@
-FROM nginx:alpine
+FROM  hshar/webapp
 ADD . /var/www/html
