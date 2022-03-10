@@ -1,2 +1,2 @@
-FROM tomcat:jdk8
+FROM nginx:alpine
 ADD . /var/www/html
